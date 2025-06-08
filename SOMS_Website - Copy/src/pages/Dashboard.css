@@ -1,0 +1,66 @@
+/* Ant Menu */
+.ant-menu {
+    background-color: #e63b90;
+    color: white;
+}
+.ant-menu-item {
+    padding: 30px;
+    /*Text Color*/
+    color: white;
+}
+.ant-menu-item:hover {
+    background-color: #ffddee;
+    color: white;
+}
+.ant-menu-item:hover {
+    background-color: #ffddee;
+    color: white;
+}
+.ant-menu-item:not(:hover) {
+    background-color: #f573b4;
+    color: white;
+}
+.ant-menu-item-text {
+    background-color: #f573b4;
+    color: white;
+}
+.ant-menu-item-selected {
+    background-color: #f573b4;
+    color: white;
+}
+.ant-menu-item-selected a {
+    background-color: #f573b4;
+    color: white;
+}
+
+ /* Ant Button */
+.ant-btn:active {
+    background-color: #ffddee;
+    color: white;
+}
+.ant-btn:hover {
+    background-color: #f573b4;
+    color: #f573b4;
+}
+ /* Ant Layout */
+.ant-layout-sider {
+    color: white;
+    
+}
+.ant-layout {
+    background-color: #ffffff;
+    color:#ffffff;
+}
+
+/* Divider */
+.divtrans{
+    position: absolute;
+    border-right: 10px solid #ffc0cb44;
+    background-color: #c72576; /* Set your preferred background color */
+    color:#ffffff;
+    width: 250px;    
+}
+.sider{
+    background-color: white; /* Set your preferred background color */
+    color: white;
+}

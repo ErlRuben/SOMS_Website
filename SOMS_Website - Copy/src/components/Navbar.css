@@ -1,0 +1,22 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  border-bottom: 10px solid #ffc0cb44;
+  justify-content: space-between;
+  background-color: #c72576; /* Set your preferred background color */
+  padding: 10px;
+  color: white;
+}
+.logo-container {
+  display: flex;
+  align-items: center; /* Center vertically within the container */
+}
+
+.logo-container img {
+  margin-right: 10px; /* Add spacing between the image and text */
+}
+.button-container {
+  display: flex;
+  align-items: center; 
+  margin-left: auto; /* Push the button to the right */
+}

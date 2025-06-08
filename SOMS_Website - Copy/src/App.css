@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+    
+  }
+  .centered-content {
+    background-image: url('C:\Users\acer\Documents\GitHub\SOMS_Website - Copy\public\Images\uicimage4k.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .centered-text {
+    text-align: center;
+  }
+  .panel-welcome{
+    border: 1px solid #c72576;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #ffffffc9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .login-button {
+    background-color: #000000;
+    color: #fff;
+    padding: 5px 50px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
